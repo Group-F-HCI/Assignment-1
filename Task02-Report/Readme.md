@@ -3,7 +3,7 @@
 
 <h2>Narasumber : </h2>
 Joshua Atmadja <br>
-<a href="https://www.joshuatmadja.com/">CV Joshua Atmadja</a><br><br>
+<a href="https://www.joshuatmadja.com/">Resume Joshua Atmadja</a><br><br>
 
 <h2>Pewawancara : </h2>
 1. M. Zhafran Bahij<br>
