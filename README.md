@@ -1,9 +1,9 @@
 # Assignment-1
 <p>
  <h2> Team F </h2>
-  &#49 M. Zhafran Bahij (1313619012) <br>
-  &#50 Ferdy Nugraha Rachmadi (13136190) <br>
-  &#51 Ecep Jiyaul Rojak (1313619009) <br>
+  1.  M. Zhafran Bahij (1313619012) <br>
+  2.  Ferdy Nugraha Rachmadi (1313619011) <br>
+  3.  Ecep Jiyaul Rojak (1313619009) <br>
  University : Universitas Negeri Jakarta <br>
 </p>
  <h2> Task 1 </h2>
