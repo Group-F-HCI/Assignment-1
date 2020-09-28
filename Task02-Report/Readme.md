@@ -38,4 +38,9 @@ Q : Kenapa bapak menjadi ux designer?<br>
 A : Karena menurut saya, saya adalah seorang ekstrovert. 2 tahun pertama menjalani perkuliahan, tidak begitu kuat dalam ngoding. Akhirnya saya menemukan bidang yang bisa berinteraksi dengan orang lain lebih luas dan masih sejalur dengan jurusan saya. Tahun 2017, mencoba menjadi ux designer walaupun tidak full time. Ternyata seru karena bisa mengetahui masalah mereka. Melakukan pekerjaan ini tidak perlu diam di tempat terlalu lama dan juga bermanfaat bagi orang lain.<br><br>
 
 <h2>Sedikit Permasalahan</h2>
-Jadi, selama proses perekaman ada sedikit masalah sehingga videonya patah-patah. Oleh karena itu, kami mengirimkan foto screenshot.
+Jadi, selama proses perekaman ada sedikit masalah sehingga videonya patah-patah. Oleh karena itu, kami mengirimkan foto screenshot.<br><br>
+
+
+<h2>Design dari Narasumber</h2>
+https://www.behance.net/gallery/76306689/Japanese-Indonesian-Learning-Application <br>
+Dari kelompok kami mengatakan bahwa tidak ada yang perlu dirombak.
