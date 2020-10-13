@@ -8,7 +8,7 @@ Dari kami sendiri, mencoba membuat mock up agar aplikasi tersebut lebih sederhan
 <br><br>
 
 <h2>Key USE CASES</h2><br>
-<img src="Use Case.jpeg" height="200px" width="200px">
+<img src="Use Case.jpeg" >
 
 <h2>Key Activity Diagram</h2><br>
-<img src="Activity Diagram.jpeg" height="200px" width="200px">
+<img src="Activity Diagram.jpeg">
