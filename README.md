@@ -6,6 +6,10 @@
   3.  Ecep Jiyaul Rojak (1313619009) <br>
  University : Universitas Negeri Jakarta <br><br>
 </p>
+<h2> Application </h2>
+Judul : <a href="https://play.google.com/store/apps/details?id=edu.mobcom.pj">Player Journey </a> <br>
+Deskripsi : Aplikasi ini membantu kita untuk mencatat aktivitas sholat kita.<br>
+
  <h2> Developer </h2>
 <p>
 1. <br> 
@@ -15,7 +19,6 @@ Tugasnya di aplikasi : Full Stack <br>
 Tahun masuk univ : 2015 <br>
 Tahun lulus univ : (belum lulus)<br>
 Universitas : Universitas Negeri Jakarta<br><br>
-
 2. <br>
 Nama : Arnindiyah Kirana<br>
 Profesi : Mahasiswa<br>
@@ -23,7 +26,6 @@ Tugasnya di aplikasi : Full Stack<br>
 Tahun masuk univ : 2015<br>
 Tahun lulus univ : (belum lulus)<br>
 Universitas : Universitas Negeri Jakarta<br><br>
-
 3. <br>
 Nama : Vivi Dwi Agustin<br>
 Profesi : Fresh Graduated<br>
