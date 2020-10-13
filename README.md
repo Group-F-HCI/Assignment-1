@@ -8,7 +8,6 @@
 </p>
  <h2> Developer </h2>
 <p>
- 
 1. <br> 
 Nama : Nurul Huda <br>
 Profesi : Mahasiswa <br>
