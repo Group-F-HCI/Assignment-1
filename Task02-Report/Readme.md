@@ -1,6 +1,9 @@
 
 # Task02-Report
 
+
+<img src="SprintDesign.jpg" height = "300px">
+
 <h2>DAY 01 : Discussion of why the app does having problem</h2>
 <p>
   Diskusi ini dilaksanakan pada tanggal 10 September 2020 pada pukul 10.00
