@@ -7,6 +7,7 @@
 <h2>DAY 01 : Discussion of why the app does having problem</h2>
 <p>
   Diskusi ini dilaksanakan pada tanggal 10 September 2020 pada pukul 10.00
+  link : <a href="https://youtu.be/vfLHEG0bO1I">Discussion of why the app does having problem</a><br>
   
   Pada hari pertama, kami melakukan diskusi tentang apa saja kelebihan dan kekurangan pada aplikasi tersebut. Menurut kami, kelebihan dari aplikasi itu sendiri adalah memiliki hirarki menu yang jelas. Di mana saat awal kita buka tersedia main menu, kemudian dilanjutkan dengan beberapa menu sesuai fungsinya masing-masing. Setiap jadwal sholat, memiliki warna untuk membedakan antara sholat yang satu dengan sholat yang lain. Memiliki fitur menentukan arah kiblat yang praktis sehingga pengguna tidak bingung untuk mencari arah kiblat saat sholat.
 
