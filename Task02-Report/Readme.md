@@ -30,4 +30,4 @@
 <h2>DAY 04 : Test with Target Customers</h2>
   Diskusi ini dilaksanakan pada tanggal 11 September 2020 pada pukul 20.00
   
-  Setelah penentuan desain, kami memberikan paparan tentang desain yang telah ditentukan. Kami menjelaskan tentang <i>mock up</i> aplikasi tersebut. Kami memberikan penjelasan bahwa desain tersebut memiliki <i>design principle</i> yaitu , <i>Easy to learn for user and simple</i>. Menurutnya, user akan lebih menyukai suatu hal yang mudah dan simpel. Semua menu yang ada bisa ditekan dengan sekali tekan, kecuali penginputan simbol di menu <i>diary</i>.
+  Setelah penentuan desain, kami memberikan paparan tentang desain yang telah ditentukan. Kami menjelaskan tentang <i>mock up</i> aplikasi tersebut. Kami memberikan penjelasan bahwa desain di setiap komponennya memiliki <i>design principle</i> yaitu , <i>Easy to learn for user and simple</i>. Menurut kami, user akan lebih menyukai suatu hal yang mudah dan simpel. Semua menu yang ada bisa ditekan dengan sekali tekan, kecuali penginputan simbol di menu <i>diary</i>.
