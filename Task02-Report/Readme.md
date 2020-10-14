@@ -3,7 +3,7 @@
 
 <h2>DAY 01 : Discussion of why the app does having problem</h2>
 <p>
-  Diskusi ini dilakasnakan pada tanggal 10 September 2020 pada pukul 10.00
+  Diskusi ini dilaksanakan pada tanggal 10 September 2020 pada pukul 10.00
   
   Pada hari pertama, kami melakukan diskusi tentang apa saja kelebihan dan kekurangan pada aplikasi tersebut. Menurut kami, kelebihan dari aplikasi itu sendiri adalah memiliki hirarki menu yang jelas. Di mana saat awal kita buka tersedia main menu, kemudian dilanjutkan dengan beberapa menu sesuai fungsinya masing-masing. Setiap jadwal sholat, memiliki warna untuk membedakan antara sholat yang satu dengan sholat yang lain. Memiliki fitur menentukan arah kiblat yang praktis sehingga pengguna tidak bingung untuk mencari arah kiblat saat sholat.
 
@@ -13,7 +13,9 @@
 </p>
 
 <h2>DAY 02 : Time to Design</h2>
-  
+  Momen ini dilaksanakan dari setelah diskusi pertama selesai sampai diskusi kedua dimulai.|
+  Link desainnya Ferdy : https://github.com/Group-F-HCI/Assignment-1/tree/hw2/Task02-Report/Team%20F%20Design/Ferdy's%20Design
+  Link desainnya Zhafran : https://github.com/Group-F-HCI/Assignment-1/tree/hw2/Task02-Report/Team%20F%20Design/Zhafran's%20Design
 
 
 <h2>DAY 03 : Decide on The Best</h2>
