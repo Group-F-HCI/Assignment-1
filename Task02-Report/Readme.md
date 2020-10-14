@@ -13,13 +13,13 @@
 </p>
 
 <h2>DAY 02 : Time to Design</h2>
-
+  
 
 
 <h2>DAY 03 : Decide on The Best</h2>
   Diskusi ini dilaksanakan pada tanggal 11 September 2020 pada pukul 15.05
   
-  Pada hari ketiga, voting desain yang terpilih dilaksanakan. Kami mengundang tiga orang untuk melakukan voting. Ferdy dan Zhafran memberikan rancangan desain mereka dan masing-masing memiliki <i>design principle</i> yang agak berbeda. 
+  Pada hari ketiga, voting desain yang terpilih dilaksanakan. Kami mengundang tiga orang untuk melakukan voting. Ferdy dan Zhafran memberikan rancangan desain mereka dan masing-masing memiliki <i>design principle</i> yang agak berbeda. Setelah pemaparan dari kedua <i>mock up</i>, ada sesi pemilihan <i>mock up</i>. Voting terbanyak jatuh kepada desain kedua.
 
 
 <h2>DAY 04 : Test with Target Customers</h2>
