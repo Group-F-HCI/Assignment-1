@@ -6,7 +6,7 @@
 
 <h2>DAY 01 : Discussion of why the app does having problem</h2>
 <p>
-  link : <a href="https://youtu.be/vfLHEG0bO1I">Discussion of why the app does having problem</a><br><br>
+  link video : <a href="https://youtu.be/vfLHEG0bO1I">Discussion of why the app does having problem</a><br><br>
   
   Diskusi ini dilaksanakan pada tanggal 10 September 2020 pada pukul 10.00<br>
   
