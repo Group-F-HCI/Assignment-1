@@ -7,7 +7,7 @@
  University : Universitas Negeri Jakarta <br><br>
 </p>
 <h2> Application </h2>
-Judul : <a href="https://play.google.com/store/apps/details?id=edu.mobcom.pj">Player Journey </a> <br>
+Judul : <a href="https://play.google.com/store/apps/details?id=edu.mobcom.pj">Prayer Journey </a> <br>
 Deskripsi : Aplikasi ini membantu kita untuk mencatat aktivitas sholat kita.<br>
 
  <h2> Developer </h2>
