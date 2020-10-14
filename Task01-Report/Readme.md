@@ -13,3 +13,4 @@ Dari kami sendiri, mencoba membuat mock up agar aplikasi tersebut lebih sederhan
 <img src="Use Case.jpeg" >
 
 <h2>Key Activity Diagram</h2><br>
+<img src="Activity_Diagram.jpeg" >
