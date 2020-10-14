@@ -18,7 +18,7 @@
 <h2>DAY 02 : Time to Design</h2>
   Momen ini dilaksanakan dari setelah diskusi pertama selesai sampai diskusi kedua dimulai.<br>
   Link desainnya Ferdy : https://github.com/Group-F-HCI/Assignment-1/tree/hw2/Task02-Report/Team%20F%20Design/Ferdy's%20Design <br>
-  Link desainnya Zhafran : https://github.com/Group-F-HCI/Assignment-1/tree/hw2/Task02-Report/Team%20F%20Design/Zhafran's%20Design <br>
+  Link desainnya Zhafran <b>(Accepted)</b> : https://github.com/Group-F-HCI/Assignment-1/tree/hw2/Task02-Report/Team%20F%20Design/Zhafran's%20Design <br>
 
 
 <h2>DAY 03 : Decide on The Best</h2>
