@@ -1,1 +1,1 @@
-Di sini merupakan hasil editan dari Ferdy Nugraha
+Di sini merupakan hasil <i>>Mock up</i> dari Ferdy Nugraha
