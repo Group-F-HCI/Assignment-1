@@ -25,7 +25,7 @@
 
 <h2>DAY 03 : Decide The Best Design</h2>
   link video : <a href="https://youtu.be/4mZ2ipNcCcM">Decide The Best Design</a><br><br>
-  Diskusi ini dilaksanakan pada tanggal 11 September 2020 pada pukul 15.05<br>
+  Diskusi ini dilaksanakan pada tanggal 11 September 2020 pada pukul 15.05<br><br>
   
   Pada hari ketiga, voting desain yang terpilih dilaksanakan. Kami mengundang tiga orang untuk melakukan voting. Ferdy dan Zhafran memberikan rancangan desain mereka dan masing-masing memiliki <i>design principle</i> yang agak berbeda. Setelah pemaparan dari kedua <i>mock up</i>, ada sesi pemilihan <i>mock up</i>. Voting terbanyak jatuh kepada desain kedua.
 
