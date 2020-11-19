@@ -10,7 +10,8 @@
 
 <h2>Pranala</h2>
 <ul>
- <li><a href="https://github.com/Group-F-HCI/Group-F-HCI.github.io/tree/main/Rancangan%20Website"> Front Page </a><li>
+ <li><a href="https://github.com/Group-F-HCI/Group-F-HCI.github.io/tree/main/Rancangan%20Website"> Front Page </a></li>
+ <li><a href="https://youtu.be/G42xQV86LsI"> Video Konferensi </a></li>
 </ul>
 
 <br>
