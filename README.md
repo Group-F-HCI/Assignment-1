@@ -1,4 +1,13 @@
 # Assignment-3
+<br>
+<h2>Tentang Suver</h2>
+
+<p>Suver merupakan suatu aplikasi berbasis <i>website</i> yang nantinya dapat digunakan untuk menampung form-form yang diberikan oleh <i>user</i>. Form-form yang ditampung berupa <i>link</i> yang telah dibuat terlebih dahulu di website lain seperti <i>google form</i>. Setelah dibuat, <i>link</i> tersebut dapat disimpan di web ini agar nantinya pengguna lain bisa mengisi <i>link</i> tersebut.</p>
+
+<p>Web ini memiliki beberapa fitur yang mirip seperti <i>game</i> yang tentunya menarik sekali untuk diikuti. Contohnya adalah mendapatkan <i>title</i> tergantung dari seberapa banyak poin yang dikumpulkan. Poin yang ada di sini terdapat dua jenis, yaitu <i>send point(SP)</i> dan <i>fill point<FP></i>. <i>SP</i> dapat bertambah dengan mengisi form-form yang diberikan oleh pengguna lain. Sedangkan, <i>FP</i> dapat bertambah dengan membuat form-form tersebut</p>
+
+<br>
+<h2>Tentang Kami</h2>
 <p>
  <h2> Team F </h2>
   1.  M. Zhafran Bahij (1313619012) <br>
@@ -7,4 +16,3 @@
  Program Studi : Ilmu Komputer 2019 <br>
  University : Universitas Negeri Jakarta <br><br>
 </p>
-
