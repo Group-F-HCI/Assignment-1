@@ -7,9 +7,16 @@
 <p>Web ini memiliki beberapa fitur yang mirip seperti <i>game</i> yang tentunya menarik sekali untuk diikuti. Contohnya adalah mendapatkan <i>title</i> tergantung dari seberapa banyak poin yang dikumpulkan. Poin yang ada di sini terdapat dua jenis, yaitu <i>send point(SP)</i> dan <i>fill point<FP></i>. <i>SP</i> dapat bertambah dengan mengisi form-form yang diberikan oleh pengguna lain. Sedangkan, <i>FP</i> dapat bertambah dengan membuat form-form tersebut</p>
 
 <br>
+
+<h2>Pranala</h2>
+<ul>
+ <li><a href="https://github.com/Group-F-HCI/Group-F-HCI.github.io/tree/main/Rancangan%20Website"> Front Page </a><li>
+</ul>
+
+<br>
 <h2>Tentang Kami</h2>
 <p>
- <h2> Team F </h2>
+  Team F : <br>
   1.  M. Zhafran Bahij (1313619012) <br>
   2.  Ferdy Nugraha Rachmadi (1313619011) <br>
   3.  Ecep Jiyaul Rojak (1313619009) <br>
