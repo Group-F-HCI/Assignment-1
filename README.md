@@ -18,9 +18,9 @@
 <h2>Tentang Kami</h2>
 <p>
   Team F : <br>
-  1.  M. Zhafran Bahij (1313619012) <br>
-  2.  Ferdy Nugraha Rachmadi (1313619011) <br>
-  3.  Ecep Jiyaul Rojak (1313619009) <br>
+ 1.  M. Zhafran Bahij (1313619012) <a href="https://t.me/Zhafran_Bahij">Zhafran Bahij</a><br>
+  2.  Ferdy Nugraha Rachmadi (1313619011) <a href="#">nugrahaferdy68@gmail.com</a><br>
+  3.  Ecep Jiyaul Rojak (1313619009) <a href="https://t.me/bigdata404">Ecep Jiyaul</a> <br>
  Program Studi : Ilmu Komputer 2019 <br>
  University : Universitas Negeri Jakarta <br><br>
 </p>
