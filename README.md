@@ -12,6 +12,8 @@
 <ul>
  <li><a href="https://github.com/Group-F-HCI/Group-F-HCI.github.io/tree/main/Rancangan%20Website"> Front Page </a></li>
  <li><a href="https://youtu.be/G42xQV86LsI"> Video Konferensi </a></li>
+ <li><a href="https://docs.google.com/spreadsheets/d/16xdTCI99_YRUEIVtqQyQ0whiUUv4snxe9B-pHYKbq78/edit?usp=sharing"> Data Kuisioner 01 </a></li>
+ <li><a href="https://docs.google.com/spreadsheets/d/1YKujO0G4bUsxsgLfEy75AdWSx_K4mklZJbG-YnQkvN8/edit?usp=sharing"> Data Kuisioner 02 </a></li>
 </ul>
 
 <br>
